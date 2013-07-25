@@ -1,0 +1,7 @@
+	Title : TimedStopLight.c
+	Author : Andrew Struve
+	Date : 7/20/2013
+	Description: Timed StopLight is a simple program that cycles through a red, yellow, and green LED.
+
+	input : NONE
+
